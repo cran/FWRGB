@@ -1,0 +1,10 @@
+2e6c3b2ef3552ee6c34aae9fcbae6f1a *DESCRIPTION
+7a41cf5777e8c1537878afc17f3bf397 *NAMESPACE
+3db26f6ac9a6ae278a157e66440468e8 *R/Biomass.Estimation.R
+a75993a3abb91a653cd387b33515f32a *R/projected.area.R
+7ca9f16164f21d4fad94f5a0d0f58781 *inst/extdata/test1.jpg
+16cd8e5daf6212c5d131a58b0d119e42 *inst/extdata/test2.jpg
+007db561b7d10d1f00a1fbc6eec9efa6 *inst/extdata/test3.jpg
+5b87988cab91b808de15cf3604958a4f *inst/extdata/test4.jpg
+4f9c4db2b79de63b61723515be5b09f1 *man/Biomass.Estimation.Rd
+765756ea2c8603162958f8a020b6d508 *man/projected.area.Rd
